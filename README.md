@@ -32,17 +32,21 @@ Para cumplir con la rúbrica de la actividad, se implementó la siguiente estruc
 ## Evidencias y Capturas de Pantalla
 
 ### A. Menú Principal en la Web
-![alt text](image.png)
+![alt text](img/image.png)
 
 ### B. Vista de Lista de Productos 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
+
 ### C. Vista de Detalle 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
+
 ### D. Filtro por Categoría 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
+
 ### E. Formulario de Registro 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
+
 ### F. Prueba del Endpoint REST (Postman)
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 ---
 
