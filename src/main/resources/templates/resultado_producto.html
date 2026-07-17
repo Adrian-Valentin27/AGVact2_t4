@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head><title>Éxito</title></head>
+<body>
+    <h1>¡Producto Guardado con Éxito!</h1>
+    <p>Has registrado el producto: <strong th:text="${productoGuardado.nombre}"></strong></p>
+    <p>Categoría: <span th:text="${productoGuardado.categoria}"></span></p>
+    <a href="/tienda/productos">Ver inventario completo</a>
+</body>
+</html>
